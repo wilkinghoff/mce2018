@@ -6,3 +6,5 @@ The baseline system of the challenge can be found here: https://github.com/swsho
 After downloading the data (https://www.kaggle.com/kagglesre/blacklist-speakers-dataset) and installing all required dependencies, you can simply run the script evaluate_system.py which will do everything automatically.
 
 The PLDA script that is used is an adaptation of the MATLAB files of the fastPLDA toolkit (see https://sites.google.com/site/fastplda/) to Python.
+
+Note, that it is very unlikely to obtain exactly the same performance as presented in the paper because of nondeterministic behavior. However, the EERs should be about the same.
