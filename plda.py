@@ -101,7 +101,7 @@ def fit_plda_model_simplified(data, labels_cat, numiter, vdim, udim, rcond=1e-6)
     return model
 
 
-def fit_plda_model_two_cov(data, labels_cat, numiter, rcond=1e-6):
+def fit_plda_model_two_cov(data, labels_cat, numiter):
     """
     Fits a two-covariance plda model to a given dataset.
     :param data: data being used for fitting the model
