@@ -10,7 +10,7 @@ The PLDA script that is used is an adaptation of the MATLAB files of the fastPLD
 When finding this code helpful, or reusing parts of it, a citation is appreciated:
 
 @article{wilkinghoff2019openspeaker,
-  title={Training an Open-Set Speaker Recognition System Without Using Non-Blacklist Speakers},
+  title={An Open-Set Speaker Recognition System},
   author={Wilkinghoff, Kevin},
   journal={Preprint (submitted)},
   year={2019}
