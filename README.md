@@ -10,7 +10,7 @@ The PLDA script that is used is an adaptation of the MATLAB files of the fastPLD
 When finding this code helpful, or reusing parts of it, a citation is appreciated:
 
 @article{wilkinghoff2019openspeaker,
-  title={On Open-Set Speaker Recognition with I-Vectors},
+  title={On Open-Set Speaker Identification with I-Vectors},
   author={Wilkinghoff, Kevin},
   journal={Preprint (submitted)},
   year={2019}
