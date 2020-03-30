@@ -12,7 +12,7 @@ When finding this code helpful, or reusing parts of it, a citation is appreciate
 @inproceedings{wilkinghoff2019openspeaker,
   title={On Open-Set Speaker Identification with I-Vectors},
   author={Wilkinghoff, Kevin},
-  booktitle={The Speaker and Language Recognition Workshop (ODYSSEY)},
+  booktitle={The Speaker and Language Recognition Workshop (Odyssey)},
   publisher={ISCA},
   year={2020}
 }
