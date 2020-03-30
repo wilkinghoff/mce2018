@@ -9,9 +9,10 @@ The PLDA script that is used is an adaptation of the MATLAB files of the fastPLD
 
 When finding this code helpful, or reusing parts of it, a citation is appreciated:
 
-@article{wilkinghoff2019openspeaker,
+@inproceedings{wilkinghoff2019openspeaker,
   title={On Open-Set Speaker Identification with I-Vectors},
   author={Wilkinghoff, Kevin},
-  journal={Preprint (submitted)},
-  year={2019}
+  booktitle={The Speaker and Language Recognition Workshop (ODYSSEY)},
+  publisher={ISCA},
+  year={2020}
 }
